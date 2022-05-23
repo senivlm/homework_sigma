@@ -1,0 +1,16 @@
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.csproj.AssemblyReference.cache
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.AssemblyInfoInputs.cache
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.AssemblyInfo.cs
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.csproj.CoreCompileInputs.cache
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.exe
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.deps.json
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.runtimeconfig.json
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.runtimeconfig.dev.json
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.dll
+C:\Users\tolik\Desktop\sigmapr\sigmapr\bin\Debug\net5.0\sigmapr.pdb
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.dll
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\refint\sigmapr.dll
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.pdb
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\sigmapr.genruntimeconfig.cache
+C:\Users\tolik\Desktop\sigmapr\sigmapr\obj\Debug\net5.0\ref\sigmapr.dll
