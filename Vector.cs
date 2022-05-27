@@ -301,17 +301,6 @@ namespace sigmapr
             StreamReader reader = new StreamReader(fileName);
             string line = reader.ReadToEnd();
             line.Split(' ');
-            for(int i = 0; i < array.Length; i++)
-            {
-                array[i] = Convert.ToInt32(line[i]);
-            }
-            //for (int i = 0; i < array.Length; i++)
-            //{
-            //    foreach (char c in line)
-            //    {
-            //        array[i] = c;
-            //    }
-            //}
         }
 
         public bool IsPalidrome()
@@ -367,10 +356,6 @@ namespace sigmapr
                 s += array[i] + " ";
             }
             return s;
-        }
-        public int Parse(char str)
-        {
-            return Convert.ToInt32(str);
         }
     }
 }
