@@ -25,12 +25,14 @@ namespace sigmapr
             }
             set
             {
+                // Індекс теж треба контролювати
                 array[i] = value; 
             }
         }
 
         int[] array;
         Random rnd = new Random();
+        // так не можна робити. Конструктор повнісю не підготував екземпляр до роботи.
         public Vector() { }
         public Vector(int n)
         {
