@@ -3,7 +3,10 @@ using System.IO;
 using System.Linq;
 
 namespace sigmapr
-{
+{// Ваш номер 38. 
+    // скидайте також і файл з main
+    // не побачила реалізації умови, коли оперативка не помістить все вмістиме файлу, а також пірамідальне сортування.
+    
     enum typeOfSort
     {
         Average,
