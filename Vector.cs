@@ -189,6 +189,7 @@ namespace sigmapr
                     j--;
                 }
             } while (i <= j);
+            // Є лишні умови
             if (j > firstIndex)
             {
                 QuickSort(firstIndex, j, t);
@@ -299,6 +300,7 @@ namespace sigmapr
             string[] lines = File.ReadAllLines(fileName).ToArray();
 
             StreamReader reader = new StreamReader(fileName);
+            // при великих файлах буде проблемно. Краще використовувати динамічну колекцію стрічок. Так можна бульше захопити.
             string line = reader.ReadToEnd();
             line.Split(' ');
         }
